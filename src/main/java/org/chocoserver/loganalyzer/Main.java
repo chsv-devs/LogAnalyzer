@@ -1,4 +1,4 @@
-package org.chocoserver;
+package org.chocoserver.loganalyzer;
 
 import org.apache.commons.io.FileUtils;
 
